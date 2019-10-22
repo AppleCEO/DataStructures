@@ -1,0 +1,3 @@
+﻿  SparseMatrix1.cpp
+D:\projects\DataStructure\C\SparseMatrix1\SparseMatrix1\SparseMatrix1.cpp(14,1): warning C4326:  'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  SparseMatrix1.vcxproj -> D:\projects\DataStructure\C\SparseMatrix1\Debug\SparseMatrix1.exe
