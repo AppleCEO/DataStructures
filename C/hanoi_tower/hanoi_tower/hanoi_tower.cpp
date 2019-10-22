@@ -10,7 +10,7 @@ void hanoi_tower(int n, char from, char tmp, char to)
 	}
 }
 
-int main()
+void main()
 {
 	hanoi_tower(4, 'A', 'B', 'C');
 }

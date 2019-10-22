@@ -33,7 +33,7 @@ polynomial poly_add1(polynomial A, polynomial B)
 	return C;
 }
 
-int main()
+void main()
 {
 	polynomial a = { 5, {3, 6, 0, 0, 0, 10} };
 	polynomial b = { 4,    {7, 0, 5, 0, 1 } };
@@ -48,6 +48,4 @@ int main()
 		printf("%.0lf ,", c.coef[i]);
 	}
 	printf("%.0lf} }", c.coef[c.degree]);
-
-	return 0;
 }
